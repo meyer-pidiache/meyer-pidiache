@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/meyer_pidiache" target="blank"><img src="https://img.shields.io/twitter/follow/meyer_pidiache?logo=twitter&style=for-the-badge" alt="meyer_pidiache" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, SQL and more**
+- 📫 How to reach me meyer.pidiache@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
