@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meyer Pidiache</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,java,javascript,linux&perline=16" alt="Tech Stack" /> </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=maven,md,neovim,nodejs,postgres,powershell,python,sqlite,vscode&perline=16" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,java,javascript,linux&perline=10" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=maven,md,neovim,nodejs,postgres,powershell,python,sqlite,vscode&perline=10" alt="Tech Stack" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p>
 
