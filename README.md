@@ -21,10 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact)](https://github.com/meyer-pidiache/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meyer-pidiache&show_icons=true&locale=en&layout=compact" alt="meyer-pidiache" /></p>
+![Meyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&locale=en" alt="meyer-pidiache" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&" alt="meyer-pidiache" /></p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&" alt="meyer-pidiache" /></p>
