@@ -4,11 +4,9 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,java,javascript,linux&perline=10" alt="Tech Stack" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=maven,md,neovim,nodejs,postgres,powershell,python,sqlite,vscode&perline=10" alt="Tech Stack" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meyer-pidiache" alt="meyer-pidiache" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p>
-
-<p align="left"> <a href="https://twitter.com/meyer_pidiache" target="blank"><img src="https://img.shields.io/twitter/follow/meyer_pidiache?logo=twitter&style=for-the-badge" alt="meyer_pidiache" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, SQL and more**
 - 📫 How to reach me meyer.pidiache@gmail.com
