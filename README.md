@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meyer Pidiache</h1>
+<h1 align="center">Hi 👋, I'm Meyer</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,java,javascript,linux&perline=10" alt="Tech Stack" /> </p>
