@@ -11,14 +11,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meyer-pidiache" alt="meyer-pidiache" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact)](https://github.com/meyer-pidiache/github-readme-stats)
-
-![Meyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&" alt="meyer-pidiache" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<<div style="text-align:center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical" alt="Top_langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical" alt="GitHub_stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical" alt="weak-streak" /></p>
+</div>
+  
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/meyer_pidiache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meyer_pidiache" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meyer-pidiache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meyer-pidiache" height="30" width="40" /></a>
 </p>
