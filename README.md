@@ -9,7 +9,7 @@
 <p align="center">🌱 I’m currently learning <b>Python, Java, SQL and more</b></p>
 <p align="center">📫 How to reach me <a href='mailto:meyer.pidiache@gmail.com'>meyer.pidiache@gmail.com</a></p>
 <p align="center">📝 I regularly write articles on <a href='https://meyer-pidiache.github.io'>meyer-pidiache.github.io</a></p>
- <br>
+ <br><br>
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=false&count_private=true" alt="Top_langs" /></p>
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=false&count_private=true" alt="GitHub_stats" /></p>
 <p align="center" width="100%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical" alt="weak-streak" /></p>
