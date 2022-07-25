@@ -10,8 +10,8 @@
 <p align="center">📫 How to reach me <a href='mailto:meyer.pidiache@gmail.com'>meyer.pidiache@gmail.com</a></p>
 <p align="center">📝 I regularly write articles on <a href='https://meyer-pidiache.github.io'>meyer-pidiache.github.io</a></p>
  <br><br>
-<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=false&count_private=true" alt="Top_langs" /></p>
-<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=false&count_private=true" alt="GitHub_stats" /></p>
+<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top_langs" /></p>
+<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub_stats" /></p>
 <p align="center" width="100%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical" alt="weak-streak" /></p>
  <br>
 <p align="center" width="100%"><img src="https://github-profile-trophy.vercel.app/?username=meyer-pidiache&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></p>
