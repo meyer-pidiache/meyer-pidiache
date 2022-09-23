@@ -12,9 +12,8 @@
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=true&count_private=true" alt="Top_langs" /></p>
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub_stats" /></p>
 <p align="center" width="100%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical" alt="weak-streak" /></p>
- <br>
-<p align="center" width="100%"><img src="https://github-profile-trophy.vercel.app/?username=meyer-pidiache&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></p>
- <br>
+
+<br>
 <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://twitter.com/meyer_pidiache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meyer_pidiache" height="30" width="40" /></a>
