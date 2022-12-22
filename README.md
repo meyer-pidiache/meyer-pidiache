@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meyer</h1>
 <h3 align="center">A passionate junior developer from Colombia <i class="flag flag-india"></i></h3>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,django,git,github,html,python" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,java,javascript,git,github,html,python" alt="Tech Stack" /> </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p>
  <br>
