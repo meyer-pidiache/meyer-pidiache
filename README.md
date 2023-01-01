@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meyer</h1>
-<h3 align="center">A passionate junior developer from Colombia <i class="flag flag-india"></i></h3>
+<h3 align="center">Self-Taught Developer</h3>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,java,javascript,git,github,html,python" alt="Tech Stack" /> </p>
 
