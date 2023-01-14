@@ -18,10 +18,10 @@
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=10"
+   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&include_all_commits=true&count_private=true&langs_count=10"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=10" />
+  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&include_all_commits=true&count_private=true&langs_count=10" />
  </picture>
 </div><br>
 
@@ -33,10 +33,10 @@
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars"
+   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true&hide=stars"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars" />
+  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true&hide=stars" />
  </picture>
 </div><br>
 
@@ -48,10 +48,10 @@
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical"
+   srcset="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache" />
  </picture>
 </div><br>
 
