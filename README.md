@@ -62,5 +62,3 @@
     <a href="https://linkedin.com/in/meyer-pidiache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meyer-pidiache" height="30" width="40" /></a>
   </p>
  <br>
- 
- ![](https://bit.ly/meyer-pidiache)
