@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p><br>
 
-<p align="center">🌱 I am currently learning programming and cybersecurity on a self-taught basis</p>
+<p align="center">🌱 I am currently a university student studying systems engineering and learning programming and cybersecurity on a self-taught basis.</p>
 
 <p align="center">📫 How to reach me <a href='mailto:meyer.pidiache@gmail.com'>meyer.pidiache@gmail.com</a></p><br><br>
  
