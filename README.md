@@ -2,7 +2,7 @@
 
 <p align="center"><image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Self-Taught%20Developer."></p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,java,javascript,git,github,html,python" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,java,javascript,git,github,html,linux,python" alt="Tech Stack" /> </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p><br>
 
