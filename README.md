@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meyer</h1>
 
-<p align="center"><image src="https://readme-typing-svg.herokuapp.com/?font=Times%20New%20Roman&size=20&color=Ff0000&center=true&width=410&height=45&lines=Self-Taught%20Developer."></p>
+<p align="center"><image src="https://readme-typing-svg.demolab.com?font=Bree+Serif&pause=1000&color=FF2525&center=true&vCenter=true&width=435&lines=Self-Taught+Developer;Orgullosamente+Colombiano"></p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,python" alt="Tech Stack" /> </p>
 
