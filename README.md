@@ -6,8 +6,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p><br>
 
-<p align="center">🌱 I am currently a university student of systems engineering.<br>
-🤟 I am passionate about philosophy, code and cybersecurity.</p>
+<p align="center">🌱 I'm currently a university student of systems engineering.<br>
+🤟 I'm passionate about philosophy, code and cybersecurity.</p>
 
 <p align="center">📫 How to reach me <a href='mailto:meyer.pidiache@gmail.com'>meyer.pidiache@gmail.com</a></p><br><br>
  
