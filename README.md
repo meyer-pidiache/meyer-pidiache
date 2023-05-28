@@ -1,10 +1,22 @@
 <h1 align="center">Hi 👋, I'm Meyer</h1>
 
-<p align="center"><image src="https://readme-typing-svg.demolab.com?font=Bree+Serif&pause=1000&color=FF2525&center=true&vCenter=true&width=435&lines=Self-Taught+Developer;Orgullosamente+Colombiano"></p>
+<!--Typing SVG-->  
+<p align="center">
+ <image src="https://readme-typing-svg.demolab.com?font=Bree+Serif&pause=1000&color=FF2525&center=true&vCenter=true&width=435&lines=Self-Taught+Developer;Orgullosamente+Colombiano">
+</p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python" alt="Tech Stack" /> </p>
+<!--Tech Stack-->  
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python" alt="Tech Stack" />
+</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=0e75b6&style=flat" alt="meyer-pidiache" /> </p><br>
+<!--TryHackMe Badge-->  
+<p align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/turtle.99.png" alt="TryHackMe">
+</p>
+
+<!--User views-->  
+<p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=brightgreen&style=flat" alt="meyer-pidiache" /> </p><br>
 
 <p align="center">🌱 I'm currently a university student of systems engineering.<br>
 🤟 I'm passionate about philosophy, code and cybersecurity.</p>
