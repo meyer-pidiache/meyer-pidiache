@@ -42,14 +42,14 @@
  <div align="center" width="100%">
  <picture>
   <source 
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars"
+   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true&hide=stars"
+   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true&hide=stars" />
+  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true" />
  </picture>
 </div><br>
 
