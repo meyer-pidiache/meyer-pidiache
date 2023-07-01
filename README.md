@@ -11,9 +11,11 @@
 </p>
 
 <!--TryHackMe Badge-->  
-<p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/turtle.99.png" alt="TryHackMe">
-</p>
+<a href="https://tryhackme.com/p/turtle.99" target="_blank" rel="noopener noreferrer">
+ <p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/turtle.99.png" alt="TryHackMe">
+ </p>
+</a>
 
 <!--User views-->  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=brightgreen&style=flat" alt="meyer-pidiache" /> </p><br>
