@@ -22,20 +22,10 @@
   </p>
   <p>
     <!-- https://skillicons.dev/ -->
-    <picture>
-      <source 
-        srcset="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python&theme=light"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python"
-        alt="Tech Stack"
-      />
-    </picture>
+    
+   [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python#gh-dark-mode-only)](https://github.com/meyer-pidiache#gh-dark-mode-only)
+   [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python&theme=light#gh-light-mode-only)](https://github.com/meyer-pidiache#gh-light-mode-only)
+  
   </p>  
   <!--Top Languages-->
   <!-- https://github.com/meyer-pidiache/github-readme-stats -->
@@ -55,7 +45,7 @@
 </div>
 
 <!-- Stats -->
-<div align="center" style="margin: 30px; line-height: 1;">
+<div align="center" style="margin: 30px; line-height: 2;">
   <p>
     <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
     <img 
@@ -86,7 +76,7 @@
 </div>
 
 <!-- Connect with me -->
-<div align="center" style="margin: 30px; line-height: 1;">
+<div align="center" style="margin: 30px; line-height: 2;">
   <p>
     <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
     <img 
@@ -118,4 +108,3 @@
     </a>
   </p>
 </div>
-
