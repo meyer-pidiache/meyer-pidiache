@@ -1,80 +1,121 @@
-<h1 align="center">Hi 👋, I'm Meyer</h1>
+<h1 align="center">Hola, mi nombre es Meyer</h1>
 
-<!--Typing SVG-->  
-<p align="center">
- <image src="https://readme-typing-svg.demolab.com?font=Bree+Serif&pause=1000&color=FF2525&center=true&vCenter=true&width=435&lines=Self-Taught+Developer;Orgullosamente+Colombiano">
-</p>
-
-<!--Tech Stack-->  
-<p align="center">
- <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python" alt="Tech Stack" />
-</p>
-
-<!--TryHackMe Badge-->  
-<a href="https://tryhackme.com/p/turtle.99" target="_blank" rel="noopener noreferrer">
- <p align="center">
-  <!--Self-domain anti GitHub cache-->  
-  <img src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/turtle.99.png&newUpdate" alt="TryHackMe">
- </p>
-</a>
-
-<!--User views-->  
-<p align="center"><img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Profile%20views&color=brightgreen&style=flat" alt="meyer-pidiache" /> </p><br>
-
-<p align="center">🌱 I'm currently a university student of systems engineering.<br>
-🤟 I'm passionate about philosophy, code and cybersecurity.</p>
-
-<p align="center">📫 How to reach me <a href='mailto:meyer.pidiache@gmail.com'>meyer.pidiache@gmail.com</a></p><br><br>
- 
- <!--Top Languages-->  
-<div align="center" width="100%">
- <picture>
-  <source 
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=10"
-   media="(prefers-color-scheme: dark)"
-   />
-  <source
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&include_all_commits=true&count_private=true&langs_count=10"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&include_all_commits=true&count_private=true&langs_count=10" />
- </picture>
-</div><br>
-
- <!--Stats-->  
- <div align="center" width="100%">
- <picture>
-  <source 
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-   media="(prefers-color-scheme: dark)"
-   />
-  <source
-   srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true" />
- </picture>
-</div><br>
-
- <!--Streak Stats-->  
- <div align="center" width="100%">
- <picture>
-  <source 
-   srcset="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache&theme=radical"
-   media="(prefers-color-scheme: dark)"
-   />
-  <source
-   srcset="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meyer-pidiache" />
- </picture>
-</div><br>
-
-<br>
-<h3 align="center">Connect with me</h3>
-  <p align="center">
-    <a href="https://twitter.com/meyer_pidiache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meyer_pidiache" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/meyer-pidiache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meyer-pidiache" height="30" width="40" /></a>
+<!-- Information -->
+<div align="center" style="margin: 30px; line-height: 1;">
+  <p>
+    <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&width=460&height=18&lines=Soy+un+desarrollador+muy+curioso%2C+apasionado%2C+y...;%C2%A1Orgullosamente+Colombiano!"
+    />
   </p>
- <br>
+  <p>🌱 Actualmente soy estudiante universitario de ingeniería de sistemas</p>
+  <p>🤟 Me apasionan el código, la ciberseguridad y la filosofía</p>
+</div>
+
+<!-- Tech Stack -->
+<div align="center" style="margin: 30px; line-height: 2;">
+  <p>
+    <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&repeat=false&width=460&height=18&lines=Tecnolog%C3%ADas+que+m%C3%A1s+conozco"
+    />
+  </p>
+  <p>
+    <!-- https://skillicons.dev/ -->
+    <picture>
+      <source 
+        srcset="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python"
+        alt="Tech Stack"
+      />
+    </picture>
+  </p>  
+  <!--Top Languages-->
+  <!-- https://github.com/meyer-pidiache/github-readme-stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&langs_count=12&locale=es"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&theme=vue&include_all_commits=true&count_private=true&langs_count=12&locale=es"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats-meyer-pidiache.vercel.app/api/top-langs/?username=meyer-pidiache&layout=compact&include_all_commits=true&count_private=true&langs_count=12&locale=es"
+    />
+ </picture>
+</div>
+
+<!-- Stats -->
+<div align="center" style="margin: 30px; line-height: 1;">
+  <p>
+    <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&repeat=false&width=460&height=18&lines=Estad%C3%ADsticas"
+    />
+  </p>
+  <p>
+    <!-- https://github.com/meyer-pidiache/github-readme-stats -->
+    <picture>
+      <source   
+        srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&locale=es&hide_title=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=es&hide_title=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true&locale=es&hide_title=true"
+      />
+    </picture>
+  </p>
+  <!--User views-->
+  <p>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Visualizaciones+del+perfil&color=brightgreen&style=for-the-badge" alt="meyer-pidiache" />
+  </p>
+</div>
+
+<!-- Connect with me -->
+<div align="center" style="margin: 30px; line-height: 1;">
+  <p>
+    <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&repeat=false&width=460&height=18&lines=Lugares+en+los+que+puedes+encontrarme">
+  </p>
+  <p style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://twitter.com/meyer_pidiache" target="_blank">
+      <img 
+        src="https://skillicons.dev/icons?i=twitter" 
+        alt="@meyer_pidiache"
+        style="padding: 5px"
+      />
+    </a>
+    <a href="https://linkedin.com/in/meyer-pidiache" target="_blank">
+      <img 
+        src="https://skillicons.dev/icons?i=linkedin" 
+        alt="in/meyer-pidiache"
+        style="padding: 5px"
+      />
+    </a>
+    <!-- TryHackMe Badge -->
+    <a href="https://tryhackme.com/p/turtle.99" target="_blank" rel="noopener noreferrer">
+      <!--Self-domain anti GitHub cache-->  
+      <img 
+        src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/turtle.99.png&newUpdate"
+        alt="TryHackMe"
+        style="padding: 5px"
+      >
+    </a>
+  </p>
+</div>
+
