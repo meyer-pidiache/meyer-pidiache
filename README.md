@@ -1,7 +1,7 @@
 <h1 align="center">Hola, mi nombre es Meyer</h1>
-
+<br/>
 <!-- Information -->
-<div align="center" style="margin: 30px; line-height: 1;">
+<div align="center">
   <p>
     <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
     <img 
@@ -11,9 +11,9 @@
   <p>🌱 Actualmente soy estudiante universitario de ingeniería de sistemas</p>
   <p>🤟 Me apasionan el código, la ciberseguridad y la filosofía</p>
 </div>
-
+<br/>
 <!-- Tech Stack -->
-<div align="center" style="margin: 30px; line-height: 2;">
+<div align="center">
   <p>
     <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
     <img 
@@ -43,9 +43,9 @@
     />
  </picture>
 </div>
-
+<br/>
 <!-- Stats -->
-<div align="center" style="margin: 30px; line-height: 2;">
+<div align="center">
   <p>
     <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
     <img 
@@ -74,9 +74,9 @@
     <img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Visualizaciones+del+perfil&color=brightgreen&style=for-the-badge" alt="meyer-pidiache" />
   </p>
 </div>
-
+<br/>
 <!-- Connect with me -->
-<div align="center" style="margin: 30px; line-height: 2;">
+<div align="center">
   <p>
     <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
     <img 
