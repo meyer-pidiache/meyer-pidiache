@@ -82,19 +82,19 @@
     <img 
       src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&repeat=false&width=460&height=18&lines=Lugares+en+los+que+puedes+encontrarme">
   </p>
-  <p style="display: flex; justify-content: center; align-items: center;">
+  <p>
     <a href="https://twitter.com/meyer_pidiache" target="_blank">
       <img 
         src="https://skillicons.dev/icons?i=twitter" 
         alt="@meyer_pidiache"
-        style="padding: 5px"
+        height="46"
       />
     </a>
     <a href="https://linkedin.com/in/meyer-pidiache" target="_blank">
       <img 
         src="https://skillicons.dev/icons?i=linkedin" 
         alt="in/meyer-pidiache"
-        style="padding: 5px"
+        height="46"
       />
     </a>
     <!-- TryHackMe Badge -->
@@ -103,7 +103,7 @@
       <img 
         src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/turtle.99.png&newUpdate"
         alt="TryHackMe"
-        style="padding: 5px"
+        height="46"
       >
     </a>
   </p>
