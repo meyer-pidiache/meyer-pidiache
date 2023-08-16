@@ -101,7 +101,7 @@
     <a href="https://tryhackme.com/p/turtle.99" target="_blank" rel="noopener noreferrer">
       <!--Self-domain anti GitHub cache-->  
       <img 
-        src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/turtle.99.png&newLevel"
+        src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/turtle.99.png&newInfo"
         alt="TryHackMe"
         height="46"
       >
