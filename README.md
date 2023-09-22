@@ -22,9 +22,9 @@
   </p>
   <p>
     <!-- https://skillicons.dev/ -->
-    
-   [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python#gh-dark-mode-only)](https://github.com/meyer-pidiache#gh-dark-mode-only)
-   [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,linux,postgresql,python&theme=light#gh-light-mode-only)](https://github.com/meyer-pidiache#gh-light-mode-only)
+
+   [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,javascript,linux,postgresql,python#gh-dark-mode-only)](https://github.com/meyer-pidiache#gh-dark-mode-only)
+   [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,javascript,linux,postgresql,python&theme=light#gh-light-mode-only)](https://github.com/meyer-pidiache#gh-light-mode-only)
   
   </p>  
   <!--Top Languages-->
