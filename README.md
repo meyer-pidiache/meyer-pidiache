@@ -8,8 +8,8 @@
       src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&width=460&height=18&lines=Soy+un+desarrollador+muy+curioso%2C+apasionado%2C+y...;%C2%A1Orgullosamente+Colombiano!"
     />
   </p>
-  <p>🌱 Actualmente soy estudiante universitario de Ingeniería de Sistemas</p>
-  <p>🔭 Me gusta la programación, la ciberseguridad y la filosofía</p>
+  <p>🌱 Actualmente soy estudiante de Ingeniería de Software</p>
+  <p>🔭 Soy aficionado por la programación, la ciberseguridad y la filosofía</p>
 </div>
 <br/>
 <!-- Tech Stack -->
@@ -22,10 +22,11 @@
   </p>
   <p>
     <!-- https://skillicons.dev/ -->
-
+<!--
    [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,javascript,linux,postgresql,python#gh-dark-mode-only)](https://github.com/meyer-pidiache#gh-dark-mode-only)
    [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,django,git,github,html,javascript,linux,postgresql,python&theme=light#gh-light-mode-only)](https://github.com/meyer-pidiache#gh-light-mode-only)
-  
+-->
+    
   </p>  
   <!--Top Languages-->
   <!-- https://github.com/meyer-pidiache/github-readme-stats -->
