@@ -8,8 +8,8 @@
       src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&width=460&height=18&lines=Soy+un+desarrollador+muy+curioso%2C+apasionado%2C+y...;%C2%A1Orgullosamente+Colombiano!"
     />
   </p>
-  <p>🌱 Actualmente soy estudiante de Ingeniería de Software</p>
-  <p>🔭 Soy aficionado por la programación, la ciberseguridad y la filosofía</p>
+  <p>🌱 Actualmente soy estudiante de Ingeniería de Software Comercial</p>
+  <p>🔭 Soy aficionado por el desarrollo, la ciberseguridad y la filosofía</p>
 </div>
 <br/>
 <!-- Tech Stack -->
@@ -84,28 +84,32 @@
       src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&repeat=false&width=460&height=18&lines=Lugares+en+los+que+puedes+encontrarme">
   </p>
   <p>
-    <a href="https://twitter.com/meyer_pidiache" target="_blank">
+    <!-- TryHackMe Badge -->
+    <a href="https://tryhackme.com/p/meyer.pidiache" target="_blank" rel="noopener noreferrer">
+      <!--Self-domain anti GitHub cache-->  
+      <img 
+        src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/meyer.pidiache.png"
+        alt="TryHackMe"
+        height="80"
+      >
+  </p>
+  <p>
+    <!-- Twitter -->
+    </a>
+        <a href="https://twitter.com/meyer_pidiache" target="_blank">
       <img 
         src="https://skillicons.dev/icons?i=twitter" 
         alt="@meyer_pidiache"
         height="46"
       />
     </a>
+    <!-- Linkedin -->
     <a href="https://linkedin.com/in/meyer-pidiache" target="_blank">
       <img 
         src="https://skillicons.dev/icons?i=linkedin" 
         alt="in/meyer-pidiache"
         height="46"
       />
-    </a>
-    <!-- TryHackMe Badge -->
-    <a href="https://tryhackme.com/p/turtle.99" target="_blank" rel="noopener noreferrer">
-      <!--Self-domain anti GitHub cache-->  
-      <img 
-        src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/turtle.99.png&newInfo"
-        alt="TryHackMe"
-        height="46"
-      >
     </a>
   </p>
 </div>
