@@ -94,6 +94,16 @@
       >
   </p>
   <p>
+    <!-- Codeium -->
+    <a href="https://codeium.com/profile/meyer-pidiache" target="_blank" rel="noopener noreferrer">
+      <!--Self-domain anti GitHub cache-->  
+      <img 
+        src="https://codeium.com/profile/meyer-pidiache/card.png"
+        alt="Codeium"
+        height="200"
+      >
+  </p>
+  <p>
     <!-- Twitter -->
     </a>
         <a href="https://twitter.com/meyer_pidiache" target="_blank">
