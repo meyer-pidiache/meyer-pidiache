@@ -9,7 +9,7 @@
     />
   </p>
   <p>🌱 Actualmente soy estudiante de Ingeniería de Software Comercial</p>
-  <p>🔭 Soy aficionado por el desarrollo, la ciberseguridad y la filosofía</p>
+  <p>🔭 Aficionado por el desarrollo, la ciberseguridad y la filosofía</p>
 </div>
 <br/>
 <!-- Tech Stack -->
@@ -91,16 +91,6 @@
         src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/meyer.pidiache.png"
         alt="TryHackMe"
         height="80"
-      >
-  </p>
-  <p>
-    <!-- Codeium -->
-    <a href="https://codeium.com/profile/meyer-pidiache" target="_blank" rel="noopener noreferrer">
-      <!--Self-domain anti GitHub cache-->  
-      <img 
-        src="https://codeium.com/profile/meyer-pidiache/card.png"
-        alt="Codeium"
-        height="200"
       >
   </p>
   <p>
