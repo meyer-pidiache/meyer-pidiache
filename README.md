@@ -88,7 +88,7 @@
     <a href="https://tryhackme.com/p/meyer.pidiache" target="_blank" rel="noopener noreferrer">
       <!--Self-domain anti GitHub cache-->  
       <img 
-        src="https://meyer-s-store.vercel.app/?u=tryhackme-badges.s3.amazonaws.com/meyer.pidiache.png"
+        src="https://tryhackme-badges.s3.amazonaws.com/meyer.pidiache.png"
         alt="TryHackMe"
         height="80"
       >
