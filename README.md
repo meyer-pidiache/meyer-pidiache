@@ -94,6 +94,23 @@
       >
   </p>
   <p>
+    <!-- Code Forces -->
+    </a>
+        <a href="https://codeforces.com/profile/meyer-pidiache" target="_blank">
+      <img 
+        src="https://lh3.googleusercontent.com/MZqdsBSm8rB18pd0wyoqUNa5Jf3vDwG1VzK27JRgP9sXJukSvL1UFhbqgxmtJRceTFBK_SbSHKlbLNAmMgkZfUNp4xE=s128-rj-sc0x00ffffff" 
+        alt="@meyer-pidiache"
+        height="46"
+      />
+    </a>
+    <!-- Linkedin -->
+    <a href="https://linkedin.com/in/meyer-pidiache" target="_blank">
+      <img 
+        src="https://skillicons.dev/icons?i=linkedin" 
+        alt="in/meyer-pidiache"
+        height="46"
+      />
+    </a>
     <!-- Twitter -->
     </a>
         <a href="https://twitter.com/meyer_pidiache" target="_blank">
@@ -103,11 +120,12 @@
         height="46"
       />
     </a>
-    <!-- Linkedin -->
-    <a href="https://linkedin.com/in/meyer-pidiache" target="_blank">
+    <!-- Virtual Judge -->
+    </a>
+        <a href="https://vjudge.net/user/meyer_pidiache" target="_blank">
       <img 
-        src="https://skillicons.dev/icons?i=linkedin" 
-        alt="in/meyer-pidiache"
+        src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" 
+        alt="@meyer_pidiache"
         height="46"
       />
     </a>
