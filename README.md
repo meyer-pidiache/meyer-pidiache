@@ -45,37 +45,7 @@
  </picture>
 </div>
 <br/>
-<!-- Stats -->
-<div align="center">
-  <p>
-    <!-- [Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)-->
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Bree+Serif&duration=4500&pause=600&color=FF2525&center=true&vCenter=true&repeat=false&width=460&height=18&lines=Estad%C3%ADsticas"
-    />
-  </p>
-  <p>
-    <!-- https://github.com/meyer-pidiache/github-readme-stats -->
-    <picture>
-      <source   
-        srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&locale=es&hide_title=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=es&hide_title=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img 
-        src="https://github-readme-stats-meyer-pidiache.vercel.app/api?username=meyer-pidiache&show_icons=true&include_all_commits=true&count_private=true&locale=es&hide_title=true"
-      />
-    </picture>
-  </p>
-  <!--User views-->
-  <p>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <img src="https://komarev.com/ghpvc/?username=meyer-pidiache&label=Visualizaciones+del+perfil&color=brightgreen&style=for-the-badge" alt="meyer-pidiache" />
-  </p>
-</div>
-<br/>
+
 <!-- Connect with me -->
 <div align="center">
   <p>
